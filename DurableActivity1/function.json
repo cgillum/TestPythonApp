@@ -1,0 +1,10 @@
+{
+  "scriptFile": "__init__.py",
+  "bindings": [
+    {
+      "name": "sleep",
+      "type": "activityTrigger",
+      "direction": "in"
+    }
+  ]
+}
